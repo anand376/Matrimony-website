@@ -117,7 +117,7 @@ body {
                     @csrf
                    
                     <p>
-                        <label style="color: white" for="amount">expected income:</label>
+                        <label style="color: white" for="amount">Expected income:</label>
                         <input type="text" id="amount" name="expectedIncome" readonly style="border:0; color:#f6931f; font-weight:bold;" required>
                       </p>
                        
