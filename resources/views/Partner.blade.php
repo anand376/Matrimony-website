@@ -122,7 +122,7 @@ body {
                       </p>
                        
                       <div id="slider-range" class="mb-4"></div>
-                    <span style="color: white">occupation</span>
+                    <span style="color: white">Occupation</span>
     <select id="multi-select-demo" name="occupation[]" class="form-control" multiple="multiple" required>
  
         <option value="Private">Private job</option>

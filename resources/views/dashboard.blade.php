@@ -244,7 +244,7 @@ body {
                           </div>
                          
                           <div>
-                            <p class="small text-muted mb-1">matching percentage</p>
+                            <p class="small text-muted mb-1">Matching percentage</p>
                             <p class="mb-0">{{$total_match_percentage}}%</p>
                           </div>
                         </div>
